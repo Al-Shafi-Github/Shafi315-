@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andullah Al Shafi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Software Engineering.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me:
  Twitter: @Abdullah_Shafi7
