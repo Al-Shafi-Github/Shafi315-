@@ -5,7 +5,7 @@
 - 📫 How to reach me:
  Twitter: @Abdullah_Shafi7
  Facebook: ALSafi315
- Telegram: @ESCAN0R
+ 
 
 <!---
 Shafi315/Shafi315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
